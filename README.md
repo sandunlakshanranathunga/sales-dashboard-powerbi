@@ -1,44 +1,40 @@
-# Sales Performance Dashboard (Power BI)
+# Sales Performance Dashboard | Power BI
 
-An interactive Power BI dashboard that analyzes sales performance, profitability and costs across branches, product categories and customer groups.
+## Project Overview
+This project uses Power BI to analyze sales performance, profitability and costs. The interactive dashboard provides insights into net sales trends, branch performance, product category profitability, cost breakdowns and delivery performance across branches, product categories and customer groups.
 
-## 🛠 Tools
-- **Power BI Desktop**
+## Objectives
+- Track net sales, profit and total cost using KPI cards.
+- Analyze net sales trends over time and compare performance across branches.
+- Compare gross sales and profit across product categories and products.
+- Break down profit by branch, category, product, promotion and loyalty tier.
+- Evaluate total cost across branches, categories and products.
+- Explore the relationship between delivery days and order quantity.
 
-## 📊 Dashboard Pages
+## Key Insights
+The analysis highlights which branches, categories and products drive the most sales and profit, and where costs are highest. It also shows how promotions and loyalty tiers relate to profit.
 
-### 1. Sales Overview
-- KPI cards for **Net Sales, Profit and Total Cost**
-- Net sales trend over time (line chart)
-- Net sales by branch (bar chart)
-- Gross sales and profit by category (column chart)
-- Category and product comparison (scatter chart)
+Understanding these patterns can help a business focus on its most profitable categories, control costs in high-cost areas, and make better decisions about promotions and customer groups.
 
+## Dashboard Features
+- Sales Overview: KPI cards, net sales trend, net sales by branch, category and product comparison
+- Profit Analysis: decomposition tree, profit share by category, net sales vs profit by product
+- Cost Analysis: decomposition tree, net sales vs total cost by branch, delivery days vs quantity, sales and cost over time
+
+## Dashboard Preview
 ![Sales overview](overview.png)
-
-### 2. Profit Analysis
-- Decomposition tree breaking down profit by branch, category, product, promotion and loyalty tier
-- Profit share by category (donut chart)
-- Net sales vs profit by product (scatter chart)
-
 ![Profit analysis](profit-analysis.png)
-
-### 3. Cost Analysis
-- Decomposition tree of total cost by branch, category and product
-- Net sales vs total cost by branch (area chart)
-- Delivery days vs quantity (scatter chart)
-- Sales and cost over time (column chart)
-
 ![Cost analysis](cost-analysis.png)
 
-## 🔑 Key Insights
-- [Insight 1, e.g. which branch has the highest net sales]
-- [Insight 2, e.g. which category is the most profitable]
-- [Insight 3, e.g. how promotions or loyalty tiers affect profit]
-
-## 📁 Files
-- `Sales_Dashboard.pbix`: Power BI report (open with Power BI Desktop)
+## Files
+- `Sales_Dashboard.pbix` - Power BI report (open with Power BI Desktop)
 - Screenshots of each report page
 
-## 🙋 Author
+## Tools Used
+Power BI Desktop
+
+## Project Type
+Portfolio Project
+
+## Author
 Sandun Lakshan, Business Analytics student
