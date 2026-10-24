@@ -21,11 +21,6 @@ Understanding these patterns can help a business focus on its most profitable ca
 - Profit Analysis: decomposition tree, profit share by category, net sales vs profit by product
 - Cost Analysis: decomposition tree, net sales vs total cost by branch, delivery days vs quantity, sales and cost over time
 
-## Dashboard Preview
-![Sales overview](overview.png)
-![Profit analysis](profit-analysis.png)
-![Cost analysis](cost-analysis.png)
-
 ## Files
 - `Sales_Dashboard.pbix` - Power BI report (open with Power BI Desktop)
 - Screenshots of each report page
